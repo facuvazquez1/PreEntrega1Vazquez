@@ -41,14 +41,5 @@ Toda la interacción con el usuario se realiza mediante ventanas emergentes:
 3. **Resultado**: El precio final del seguro se muestra al usuario mediante una ventana emergente.
 4. **Repetición (opcional)**: Si el usuario lo desea, puede realizar una nueva cotización. El ciclo se repite hasta que el usuario decida finalizar.
 
-## Ejecución del Proyecto
 
-El programa está diseñado para ejecutarse en un entorno que soporte JavaScript, como la consola de un navegador web. No requiere HTML ni CSS, y toda la interacción ocurre dentro del entorno de JavaScript puro.
 
-## Personalización
-
-El cotizador puede ser fácilmente personalizado:
-- **Precio Base y Recargos**: Puedes ajustar el precio base del seguro y los recargos asociados a cada rango de edad.
-- **Cálculo del Precio Final**: La fórmula utilizada para calcular el precio del seguro puede modificarse para adaptarse a diferentes reglas o requisitos de negocio.
-
-Este proyecto es una herramienta básica que puede servir como punto de partida para desarrollos más complejos en la cotización de seguros u otros productos similares.
